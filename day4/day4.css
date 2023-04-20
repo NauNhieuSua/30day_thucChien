@@ -1,0 +1,32 @@
+.container2{
+ display: flex;
+ flex-wrap: wrap;
+ 
+}
+
+.hide{
+    display:none
+}
+.picture{
+    height:200px;
+    width: 350px;
+}
+
+.container1 {
+   position: fixed;
+   width: 100%;
+   height: 100%;
+   background: violet;
+   top:0
+}
+
+.display{
+    width: 70%;
+    height: 70%;
+    align-self: center;
+}
+
+.display img {
+    width: 100%;
+    height: 100%;
+}
